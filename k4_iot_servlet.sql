@@ -14,3 +14,5 @@ CREATE TABLE user (
     country VARCHAR(100) NOT NULL
 );
 
+SELECT * FROM users;
+
