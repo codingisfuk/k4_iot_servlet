@@ -45,7 +45,7 @@ package org.example.k4_iot_servlet.이론;
         2) 스프링: DispatcherServlet(매니저)가 일처리를 지시
             >> 요청을 받아 컨트롤러, 서비스, 리포지토리 등의 역할을 분담
                 + 결과를 모아 응답 전송
-                
+
 
 
 */
